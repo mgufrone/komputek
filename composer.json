@@ -1,1 +1,15 @@
-composer.lock
+{
+    "name": "gufron/komputek",
+    "require": {
+        "yiisoft/yii": "dev-master",
+        "twig/twig": "1.13.1"
+    },
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Mochamad Gufron",
+            "email": "mgufronefendi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
